@@ -2,4 +2,4 @@
 
 Created with CodeSandbox
 
-## Live: [https://ultimate-tictactoe.surge.sh/](Ultimate Tic-Tac-Toe)
+## Live: [Ultimate Tic-Tac-Toe](https://ultimate-tictactoe.surge.sh/)
